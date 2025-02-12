@@ -1,5 +1,6 @@
 ## Hi, I’m @ubermenchh (Umang Kaushik)
-- contact: ubermenchh69@gmail.com
+- [Resume](https://drive.google.com/file/d/1mAQ83EKKaG9Aols6Pxv1-hV7jKA-xg3n/view?usp=drive_link)
+- Contact: ubermenchh69@gmail.com
 
 ## Projects:
 ### 1. Compilers, Interpreters, Programming Language, Virtual Machine
