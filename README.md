@@ -1,5 +1,5 @@
 ## Hi, I’m @ubermenchh (Umang Kaushik)
-- [Resume](https://docs.google.com/document/d/1vEm0HEhdrdTKfptoG1XDXbtauH0xWWyz4WTBBaBP-Ls/edit?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/1mAQ83EKKaG9Aols6Pxv1-hV7jKA-xg3n/view?usp=sharing)
 - HuggingFace Profile: https://huggingface.co/ubermenchh
 - Contact: ubermenchh69@gmail.com
 
