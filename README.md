@@ -33,7 +33,6 @@
 ### 4. Miscellaneous
   - [Flash](https://github.com/ubermenchh/Flash): A Linear Algebra library in C
   - [dream](https://github.com/ubermenchh/dream): A Ray-Tracer in C
-  - (WIP) [void](https://github.com/ubermenchh/void): A PyTorch-like autograd engine in C
   - [adderall/adderall.rs](https://github.com/ubermenchh/adderall/blob/main/adderall.rs): A Brainf*ck interpreter written in Rust
   - [breakout](https://github.com/ubermenchh/breakout): Breakout game written in Zig
 <!---
