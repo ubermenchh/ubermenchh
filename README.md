@@ -1,41 +1,38 @@
-## Hi, I’m @ubermenchh (Umang Kaushik)
-- [Resume](https://drive.google.com/file/d/1IyKxnEYMBzngiKmLLF2ZAOfbUO49Q0iJ/view?usp=sharing)
-- HuggingFace Profile: https://huggingface.co/ubermenchh
-- Contact: ubermenchh69@gmail.com
+<img src="assets/avatar.jpg" width="80" height="80" align="left" alt="avatar">
 
-## Projects:
-### 1. Compilers, Interpreters, Programming Language, Virtual Machine
-  - [pycc](https://github.com/ubermenchh/pycc): A C compiler written in Python
-  - [clox](https://github.com/ubermenchh/clox): A bytecode interpreter i build following the book [Crafting Interpreters]()
-  - [pylox](https://github.com/ubermenchh/pylox): An AST interpreter i build following the book [Crafting Interpreters]()
-  - [tinyvm](https://github.com/ubermenchh/tinyvm): A tiny VM based on LC-3 architecture
-  - [adderal](https://github.com/ubermenchh/adderall): A brainf*ck Compiler, Interpreter and JIT Compiler
+### Umang Kaushik
+<samp>ubermenchh</samp>
 
-### 2. Deep Learning
-  - [flash-attention](https://github.com/ubermenchh/flash-attention): Flash Attention implemented from sratch in CUDA and PyTorch
-  - [chotagrad](https://github.com/ubermenchh/chotagrad): A grad engine written in Python
-  - [Soma/paligemma](https://github.com/ubermenchh/Soma/paligemma): PaliGemma model Architecture implemented in PyTorch
-  - [llms](https://github.com/ubermenchh/llms): Little GPT2 and LLama2 trained on TinyShakespeare Dataset
-  - [BytePairEncoding](https://github.com/ubermenchh/BytePairEncoding): Byte-Pair Encoding for encoding text
-  - [vit-pytorch](https://github.com/ubermenchh/vit-pytorch): Implementation of ViT architecture for Image Classification
-  - [DeIT](https://github.com/ubermenchh/paper_implementations): Implementation of DeIT architecture for Image Classification
-  - [xLSTM](https://github.com/ubermenchh/xLSTM): Implemenation of xLSTM model in PyTorch
-  - [clip](https://github.com/ubermenchh/clip): Implmentation of CLIP model in PyTorch
-  - [moe](https://github.com/ubermenchh/moe): Implmentation of Mixture-of-Experts Transformers model
-  - [ArticleChat](https://github.com/ubermenchh/ArticleChat): A gradio app that lets you chat with an article on HuggingFace
-  - [ArxivChat](https://github.com/ubermenchh/ArxivChat): A gradio app that lets you chat with an arXiv paper on HuggingFace
+<br clear="left">
 
-### 3. CUDA
-  - [flash-attention](https://github.com/ubermenchh/flash-attention): Flash Attention implemented from sratch in CUDA and PyTorch
-  - [dream-cu](https://github.com/ubermenchh/dream.cu): A Ray-Tracer implemented in CUDA
-  - [cu-jutsu](https://github.com/ubermenchh/cu-jutsu): Various parallel-programming algorithms implemented in CUDA
+Low-level systems and machine intelligence: inference engines, GPU kernels, small models.
 
-### 4. Miscellaneous
-  - [Flash](https://github.com/ubermenchh/Flash): A Linear Algebra library in C
-  - [dream](https://github.com/ubermenchh/dream): A Ray-Tracer in C
-  - [adderall/adderall.rs](https://github.com/ubermenchh/adderall/blob/main/adderall.rs): A Brainf*ck interpreter written in Rust
-  - [breakout](https://github.com/ubermenchh/breakout): Breakout game written in Zig
-<!---
-ubermenchh/ubermenchh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<sub><a href="https://ubermenchh.github.io">SITE</a> &nbsp;·&nbsp; <a href="https://ubermenchh.github.io/blog">BLOG</a> &nbsp;·&nbsp; <a href="https://ubermenchh.github.io/resume">RESUME</a> &nbsp;·&nbsp; <a href="https://x.com/ubermenchh_">X</a> &nbsp;·&nbsp; <a href="mailto:ubermenchh69@gmail.com">EMAIL</a></sub>
+
+<sub><samp>RECENT WRITING</samp></sub>
+
+[mini-vllm: Continuous Batching](https://ubermenchh.github.io/blog/mini-vllm-1-continuous-batch) &nbsp;<sub><samp>2026-01</samp></sub>
+
+<sub><samp>SELECTED WORK</samp></sub>
+
+**[mini-vllm](https://github.com/ubermenchh/mini-vllm)** &nbsp;<sub><samp>PYTHON · 2025</samp></sub><br>
+<sub><i>PagedAttention and continuous batching, rebuilt from scratch.</i></sub>
+
+**[gemm-optimization](https://github.com/ubermenchh/gemm-optimization)** &nbsp;<sub><samp>CUDA · 2025</samp></sub><br>
+<sub><i>SGEMM on an A100, from 0.29 to 9.6 TFLOPS, measured against cuBLAS.</i></sub>
+
+**[flash-attention](https://github.com/ubermenchh/flash-attention)** &nbsp;<sub><samp>CUDA · 2024</samp></sub><br>
+<sub><i>FlashAttention written from scratch in CUDA.</i></sub>
+
+**[rl-wordle](https://github.com/ubermenchh/rl-wordle)** &nbsp;<sub><samp>RL · 2026</samp></sub><br>
+<sub><i>SFT and RL on Qwen3-1.7B. Wins on held-out words: 0% to 13%.</i></sub>
+
+**[nanohunch](https://github.com/ubermenchh/nanohunch)** &nbsp;<sub><samp>MLX · 2026</samp></sub><br>
+<sub><i>Qwen3-4B with LoRA that answers in calibrated probabilities, not text.</i></sub>
+
+**[anki-cli](https://github.com/ubermenchh/anki-cli)** &nbsp;<sub><samp>PYTHON · 2026</samp></sub><br>
+<sub><i>Anki from the terminal, for humans and agents.</i></sub>
+
+<sub><samp>ALSO</samp></sub>
+
+[engram](https://github.com/ubermenchh/engram) · [mhc](https://github.com/ubermenchh/mhc) · [void](https://github.com/ubermenchh/void) · [Flash](https://github.com/ubermenchh/Flash) · [pycc](https://github.com/ubermenchh/pycc) · [clox](https://github.com/ubermenchh/clox) · [tangent](https://github.com/ubermenchh/tangent)
