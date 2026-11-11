@@ -15,23 +15,14 @@ Low-level systems and machine intelligence: inference engines, GPU kernels, smal
 
 <sub><samp>SELECTED WORK</samp></sub>
 
-**[mini-vllm](https://github.com/ubermenchh/mini-vllm)** &nbsp;<sub><samp>PYTHON · 2025</samp></sub><br>
-<sub><i>PagedAttention and continuous batching, rebuilt from scratch.</i></sub>
-
-**[gemm-optimization](https://github.com/ubermenchh/gemm-optimization)** &nbsp;<sub><samp>CUDA · 2025</samp></sub><br>
-<sub><i>SGEMM on an A100, from 0.29 to 9.6 TFLOPS, measured against cuBLAS.</i></sub>
-
-**[flash-attention](https://github.com/ubermenchh/flash-attention)** &nbsp;<sub><samp>CUDA · 2024</samp></sub><br>
-<sub><i>FlashAttention written from scratch in CUDA.</i></sub>
-
-**[rl-wordle](https://github.com/ubermenchh/rl-wordle)** &nbsp;<sub><samp>RL · 2026</samp></sub><br>
-<sub><i>SFT and RL on Qwen3-1.7B. Wins on held-out words: 0% to 13%.</i></sub>
-
-**[nanohunch](https://github.com/ubermenchh/nanohunch)** &nbsp;<sub><samp>MLX · 2026</samp></sub><br>
-<sub><i>Qwen3-4B with LoRA that answers in calibrated probabilities, not text.</i></sub>
-
-**[anki-cli](https://github.com/ubermenchh/anki-cli)** &nbsp;<sub><samp>PYTHON · 2026</samp></sub><br>
-<sub><i>Anki from the terminal, for humans and agents.</i></sub>
+| Project | What it is | Stack | Year |
+|:--|:--|:--|:--|
+| **[mini-vllm](https://github.com/ubermenchh/mini-vllm)** | PagedAttention and continuous batching, rebuilt from scratch | <samp>Python</samp> | <samp>2025</samp> |
+| **[gemm&#8209;optimization](https://github.com/ubermenchh/gemm-optimization)** | SGEMM on an A100: 0.29 → 9.6 TFLOPS, against cuBLAS | <samp>CUDA</samp> | <samp>2025</samp> |
+| **[flash&#8209;attention](https://github.com/ubermenchh/flash-attention)** | FlashAttention written from scratch in CUDA | <samp>CUDA</samp> | <samp>2024</samp> |
+| **[rl-wordle](https://github.com/ubermenchh/rl-wordle)** | SFT and RL on Qwen3-1.7B. Wins on held-out words: 0% to 13% | <samp>Python</samp> | <samp>2026</samp> |
+| **[nanohunch](https://github.com/ubermenchh/nanohunch)** | Qwen3-4B with LoRA that answers in calibrated probabilities, not text | <samp>MLX</samp> | <samp>2026</samp> |
+| **[anki-cli](https://github.com/ubermenchh/anki-cli)** | Anki from the terminal, for humans and agents | <samp>Python</samp> | <samp>2026</samp> |
 
 <sub><samp>ALSO</samp></sub>
 
